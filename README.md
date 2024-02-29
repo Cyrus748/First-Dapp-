@@ -38,7 +38,7 @@ Now it is time to write a simple Solidity smart contract. You can use any editor
 
 Inside Remix, create a new contract file named Mood.soland write the following code:
 
-![alt text](https://github.com/Cyrus748/First-Dapp/main/assets/soliditypreview.jpeg?raw=true)
+![alt text](https://github.com/Cyrus748/First-Dapp-/blob/main/assets/soliditypreview.jpeg?raw=true)
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
